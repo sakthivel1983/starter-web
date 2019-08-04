@@ -3,6 +3,9 @@
 This is test WEB PROJECTS
 
 ## INTRODUCTION
+this project is related to web deployment and we are effectively deploying the same
+so enjoy the script
+
 
 ## PURPOSE
 
