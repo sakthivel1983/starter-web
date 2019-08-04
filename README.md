@@ -9,6 +9,7 @@ so enjoy the script
 
 ## PURPOSE
 
+the main purpose of this project is to deploy the web and be access by everyone with ease
 ## Deployments 
 
 we are deploying the web projects to test via git hub 
