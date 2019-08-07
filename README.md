@@ -17,7 +17,8 @@ for faster deployment.
 
 ## HOW TO CONTRIBUTE
 
-to contribute to it so this is very useful for the projects so it is very important
+to contribute to it so this is very useful for the projects so it is very important. this project is usefulin 
+contribute to the society so make useful of it
 
 ## Copyright
 @2019 Git.training.com
