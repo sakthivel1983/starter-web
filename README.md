@@ -1,4 +1,4 @@
-# STARTER WEB PROJECTS
+/# STARTER WEB PROJECTS
 
 This is test WEB PROJECTS
 
@@ -18,3 +18,6 @@ for faster deployment.
 ## HOW TO CONTRIBUTE
 
 to contribute to it so this is very useful for the projects so it is very important
+
+## Copyright
+@2019 Git.training.com
