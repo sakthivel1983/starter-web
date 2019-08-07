@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    sakthivel mailsakthivel@gmail.com
 
 # THANKS
 
