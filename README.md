@@ -5,7 +5,7 @@ This is test WEB PROJECTS
 ## INTRODUCTION
 this project is related to web deployment and we are effectively deploying the same
 so enjoy the script
-
+adding some more lines to it for test purpose
 
 ## PURPOSE
 
@@ -16,3 +16,5 @@ we are deploying the web projects to test via git hub
 for faster deployment.
 
 ## HOW TO CONTRIBUTE
+
+to contribute to it so this is very useful for the projects so it is very important
