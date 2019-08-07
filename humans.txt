@@ -8,6 +8,7 @@
 # THANKS
 
     am thanking the author for the extraodinary explanation of the course.
+	testing for stash
 
 # TECHNOLOGY COLOPHON
 
