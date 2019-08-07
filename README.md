@@ -13,12 +13,12 @@ the main purpose of this project is to deploy the web and be access by everyone 
 ## Deployments 
 
 we are deploying the web projects to test via git hub 
-for faster deployment.
+for faster deployment. to test for rebase git
 
 ## HOW TO CONTRIBUTE
 
 to contribute to it so this is very useful for the projects so it is very important. this project is usefulin 
-contribute to the society so make useful of it
+contribute to the society so make useful of it. adding some extra lines for testing purpose
 
 ## Copyright
 @2019 Git.training.com
