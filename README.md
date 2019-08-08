@@ -13,7 +13,7 @@ the main purpose of this project is to deploy the web and be access by everyone 
 ## Deployments 
 
 we are deploying the web projects to test via git hub 
-for faster deployment. to test for rebase git
+for faster deployment. to test for rebase git. further testing
 
 ## HOW TO CONTRIBUTE
 
